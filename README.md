@@ -36,9 +36,11 @@ The performance of the proposed CNN model will be evaluated using standard perfo
 ### Model Deployment:
 Upon successful evaluation of the CNN model, it will be deployed for users. The model will be able to assist patients in detecting and correcting improper poses during their rehabilitation exercises, ultimately improving the speed and quality of recovery for individuals undergoing rehabilitation exercises. The model will be integrated with a mobile application which will be accessible to users for monitoring the progress and providing feedback. The deployed model will be continuously updated with new data to improve its performance over time. 
 
-![image](https://user-images.githubusercontent.com/63984422/229899450-31d26569-f8cb-436c-a8ba-5a9aacf12b56.png)
+![image](https://user-images.githubusercontent.com/63984422/229899450-31d26569-f8cb-436c-a8ba-5a9aacf12b56.png) <br>
 <br>
-High Fedality prototype for MyPhysio, https://www.figma.com/proto/gbZ99dv9uzuMIsDXwAaasf/myphysio?node-id=3%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=3%3A2&show-proto-sidebar=1
+High Fedality prototype for MyPhysio
+<br>
+https://www.figma.com/proto/gbZ99dv9uzuMIsDXwAaasf/myphysio?node-id=3%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=3%3A2&show-proto-sidebar=1
 
 
 
