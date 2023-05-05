@@ -3,8 +3,11 @@
 ## Table of content
 
 1. Introduction 
+2. Problem Statement
+3. Project Objectives
+4. Software Development Methodology
+5. Implementation & design
 6. [Reference](#Reference)
-
 
 ## Background:
 Structured physical therapy program, such as the one described by Alvarez et al., has been shown to result in successful subjective and functional outcomes for 83% of patients, with 89% reporting satisfaction with their results (Terry Canale, 2013).
