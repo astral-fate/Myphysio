@@ -25,8 +25,8 @@ The collected and augmented data will be used to train and test a convolutional 
 
 
 
+![project-part2](https://user-images.githubusercontent.com/63984422/236747706-b747cfa7-d99d-4187-9835-c943fea1c72e.png)
 
-![image](https://user-images.githubusercontent.com/63984422/229899316-0442b555-2c89-40ed-bf17-ce946edcc415.png)
 
 
 
